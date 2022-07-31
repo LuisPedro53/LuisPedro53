@@ -1,6 +1,5 @@
-## Ola, sou Luiz Pedro!
+## Ola, sou o Luiz!
 
-## Olá!
 
 <div align="center">
   <a href="https://github.com/LuisPedro53">
