@@ -1,4 +1,4 @@
-## Ola, sou o Luiz!
+## Olá, eu sou o Luiz ✌️!
 
 
 <div align="center">
