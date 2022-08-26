@@ -1,6 +1,6 @@
 ## Olá, eu sou o Luiz ✌️!
-## Sou estudante de Sistemas de Informação pelo Instituo Federal do Ceará, atualmente cursando o 6º semestre e um amante de tecnologia. 
-## Dêem olhada no meu portifólio, quem não sabe gosta de algo 😉. 
+<h2>Sou estudante de Sistemas de Informação pelo Instituo Federal do Ceará, atualmente cursando o 6º semestre e um amante de tecnologia.</h2>
+<h2> Dêem olhada no meu portifólio, quem não sabe gosta de algo 😉.</h2> 
 
 
 <div>
