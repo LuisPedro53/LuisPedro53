@@ -28,5 +28,7 @@
   <a href="https://www.linkedin.com/in/luiz-pedro-galdino-silva-8161b0155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
-<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/LuisPedro53/count.svg" /></p>  
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/LuisPedro53/count.svg" /></p> 
+
+![snake gif](https://github.com/LuisPedro53/LuisPedro53/blob/output/github-contribution-grid-snake.svg)
  
